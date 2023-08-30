@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+#t-image{
+	box-sizing:border-box;
+}
 
 .heading1{
 	text-align:center;
@@ -19,6 +22,11 @@ table,td{
 #table-2{
 	width:100%;
 }
+
+#table-3{
+	width:100%;
+}
+
 
 #t11{
 	text-align:left;
